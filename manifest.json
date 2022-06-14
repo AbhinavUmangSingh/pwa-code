@@ -1,0 +1,20 @@
+{
+    "name": "Abhinav's First PWA",
+    "short_name": "Abhinav PWA",
+    "start_url": ".",
+    "background_color": "#a043f7",
+    "theme_color": "#8400ff",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/web192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/web512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
